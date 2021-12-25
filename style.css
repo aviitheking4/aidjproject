@@ -1,0 +1,8 @@
+body{
+    background-size: cover;
+}
+
+canvas{
+    margin-left: 500px;
+    position: fixed;
+}
